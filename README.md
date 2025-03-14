@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @NLYR0509
+- 👀 I’m interested in ...agent、deepseek、AI
+- 🌱 I’m currently learning ...agent、deepseek、AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...VX：NLYR0509
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+NLYR0509/NLYR0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
