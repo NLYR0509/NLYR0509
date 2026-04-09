@@ -1,0 +1,6 @@
+[submodule "wechat-decrypt"]
+	path = wechat-decrypt
+	url = https://github.com/ylytdeng/wechat-decrypt.git
+[submodule "welink"]
+	path = welink
+	url = https://github.com/runzhliu/welink.git
